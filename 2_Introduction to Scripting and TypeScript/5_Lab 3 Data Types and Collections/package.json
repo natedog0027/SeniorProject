@@ -1,0 +1,19 @@
+{
+    "name": "lab3datatypesandcollections",
+    "description": "package.json for lab3datatypesandcollections",
+    "private": true,
+    "version": "1.0.0",
+    "type": "",
+    "main": "",
+    "scripts": {
+      "OpenLab3": "code index.ts && code instructions.md",
+      "Run": "ts-node index.ts"
+    },
+    "dependencies": {
+      "ts-node": "^10.9.2"
+    },
+    "author": "Nathan Kennedy",
+    "email": "nkennedy631@gmail.com",
+    "maintainers": ["Ayaan Kazerouni"],
+    "maintainer email": "ayaank@calpoly.edu"
+  }

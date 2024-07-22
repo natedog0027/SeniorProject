@@ -1,0 +1,31 @@
+body {
+  background-color: white;
+  font-family: 'Times New Roman', Times, serif;
+
+  max-width: 80%;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+}
+
+#test-button {
+  font-size: 16px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a, a:visited {
+  color: darkgreen;
+}
+
+button {
+  margin-top: 5px;
+  padding: 2px;
+}
+
+button:hover {
+  background-color: black;
+  color: white;
+}

@@ -1,0 +1,22 @@
+{
+  "name": "tsnodesetuptemplate",
+  "description": "package.json for tsnodesetuptemplate",
+  "private": true,
+  "version": "1.0.0",
+  "type": "",
+  "main": "",
+  "scripts": {
+    "OpenTSNodeAssignment": "code index.ts && code javascript-fun.js && code instructions.md",
+    "Run": "ts-node index.ts",
+    "Install": "npm install"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.2",
+    "node-fetch": "^3.2.10",
+    "@types/node": "^18.7.13"
+  },
+  "author": "Nathan Kennedy",
+  "email": "nkennedy631@gmail.com",
+  "maintainers": ["Ayaan Kazerouni"],
+  "maintainer email": "ayaank@calpoly.edu"
+}

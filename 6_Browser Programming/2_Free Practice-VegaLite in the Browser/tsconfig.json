@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "lib": ["ES6", "DOM"],
+    "moduleResolution": "node",
+    "module": "ESNext",
+    "sourceMap": true,
+    "allowSyntheticDefaultImports": true,
+  },
+  "files": ["script.ts"]
+}

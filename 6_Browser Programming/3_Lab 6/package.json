@@ -1,0 +1,28 @@
+{
+  "name": "freepracticelab6",
+  "description": "package.json for freepracticelab6",
+  "private": true,
+  "version": "1.0.0",
+  "type": "",
+  "main": "index.html",
+  "scripts": {
+    "OpenLab6": "code index.html && code script.ts && code dataset.json && code instructions.md",
+    "setup": "tsc -w -p tsconfig.json",
+    "run": "vite"
+  },
+  "dependencies": {
+    "vega": "^5.22.1",
+    "vega-embed": "^6.21.0",
+    "vega-lite": "^5.17.0",
+    "node-fetch": "^3.2.10",
+    "vite": "^5.1.4",
+    "@types/node": "^18.7.13",
+    "typescript": "^5.4.5"
+  },
+  "devDependencies": {
+},
+  "author": "Nathan Kennedy",
+  "email": "nkennedy631@gmail.com",
+  "maintainers": ["Ayaan Kazerouni"],
+  "maintainer email": "ayaank@calpoly.edu"
+}

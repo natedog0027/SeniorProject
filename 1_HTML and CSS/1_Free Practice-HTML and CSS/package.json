@@ -1,0 +1,19 @@
+{
+    "name": "freepracticehtmlandcss",
+    "description": "package.json for freepracticehtmlandcss",
+    "private": true,
+    "version": "1.0.0",
+    "type": "module",
+    "main": "index.html",
+    "scripts": {
+      "OpenPractice1": "code index.html && code instructions.md",
+      "Run": "vite"
+    },
+    "dependencies": {
+      "vite": "^5.1.4"
+    },
+    "author": "Nathan Kennedy",
+    "email": "nkennedy631@gmail.com",
+    "maintainers": ["Ayaan Kazerouni"],
+    "maintainer email": "ayaank@calpoly.edu"
+  }

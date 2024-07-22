@@ -1,0 +1,20 @@
+{
+    "name": "htmlsetuptemplate",
+    "description": "package.json for htmlsetuptemplate",
+    "private": true,
+    "version": "1.0.0",
+    "type": "module",
+    "main": "index.html",
+    "scripts": {
+      "OpenHTMLAssignment": "code index.html && code style.css && code instructions.md",
+      "Run": "vite",
+      "Install": "npm install"
+    },
+    "dependencies": {
+      "vite": "^5.1.4"
+    },
+    "author": "Nathan Kennedy",
+    "email": "nkennedy631@gmail.com",
+    "maintainers": ["Ayaan Kazerouni"],
+    "maintainer email": "ayaank@calpoly.edu"
+  }

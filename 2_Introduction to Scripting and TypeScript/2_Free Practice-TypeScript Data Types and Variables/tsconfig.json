@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "lib": ["es2017", "dom"],
+    "moduleResolution": "node",
+    "module": "esnext",
+    "sourceMap": true,
+    "allowSyntheticDefaultImports": true,
+    "outDir": "./.build",
+    "rootDir": "."
+  }
+}

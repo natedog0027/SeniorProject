@@ -1,0 +1,32 @@
+{
+    "name": "rootjson",
+    "description": "main json encompassing the entire project. used to open npm script UI menu. individual jsons in each section are for the each section's functionality",
+    "private": true,
+    "version": "1.0.0",
+    "type": "module",
+    "main": "",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/csc123kazerouni/Senior-Project.git"
+    },
+    "scripts": {
+
+    },
+    "dependencies": {
+      "vite": "^5.1.4",
+      "ts-node": "^10.9.2",
+      "node-fetch": "^3.2.10",
+      "vega": "^5.22.1",
+      "vega-embed": "^6.21.0",
+      "vega-lite": "^5.17.0",
+      "@types/node": "^18.7.13",
+      "typescript": "^5.4.5"
+    },
+    "devDependencies": {
+    },
+    "author": "Nathan Kennedy",
+    "email": "nkennedy631@gmail.com",
+    "maintainers": ["Ayaan Kazerouni"],
+    "maintainer email": "ayaank@calpoly.edu",
+    "license": ""
+  }

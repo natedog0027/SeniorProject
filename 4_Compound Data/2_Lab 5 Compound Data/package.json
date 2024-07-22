@@ -1,0 +1,23 @@
+{
+  "name": "lab5compounddata",
+  "description": "package.json for lab5compounddata",
+  "private": true,
+  "version": "1.0.0",
+  "type": "",
+  "main": "",
+  "scripts": {
+    "OpenLab5": "code index.ts && code somefile.txt && code instructions.md",
+    "Run": "ts-node index.ts"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.2",
+    "node-fetch": "^3.2.10"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.13"
+  },
+  "author": "Nathan Kennedy",
+  "email": "nkennedy631@gmail.com",
+  "maintainers": ["Ayaan Kazerouni"],
+  "maintainer email": "ayaank@calpoly.edu"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "freepracticereduce",
+    "description": "package.json for freepracticereduce",
+    "private": true,
+    "version": "1.0.0",
+    "type": "",
+    "main": "",
+    "scripts": {
+      "OpenPractice3": "code index.ts && code instructions.md",
+      "Run": "ts-node index.ts"
+    },
+    "dependencies": {
+      "ts-node": "^10.9.2"
+    },
+    "author": "Nathan Kennedy",
+    "email": "nkennedy631@gmail.com",
+    "maintainers": ["Ayaan Kazerouni"],
+    "maintainer email": "ayaank@calpoly.edu"
+  }
